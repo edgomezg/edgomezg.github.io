@@ -1,81 +1,40 @@
 ---
 layout: page
-title: project 3 with very long name
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
+title: Experimental Calibration of GPR S-Parameter Data for Subsurface Prospecting
+description: Bachelor Thesis
+img: assets/img/bacherlor_thesis/main.png
 importance: 3
-category: work
+category: RF
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+I did my bachelor thesis during an Erasmus stay in University of Genoa (Italy), where I was enrolled in Internet and Multimedia Engineering Master's Degree as the equivalent to the fourth year of the Bachelor's Degree in Telecommunications Engineering in Public University of Navarre. Here you can find a summary of the work carried out as well as the link to the complete text.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+## Abstract 
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+The use of GPR imaging techniques is of great interest in certain fields such as
+archaeology, civil engineering or geology. However, in order to obtain results, an inverse
+problem needs to be solved. When working with experimental data, it is necessary to adopt
+calibration techniques due to the spurious effects that appear. For this reason, two antenna
+calibration methods have been implemented and evaluated in this thesis with several test
+and calibration targets, obtaining results that will be beneficial for current and to continue
+with future research in this field. The activities related to this thesis have been carried out
+at the Applied Electromagnetics Laboratory of the Department of Electrical, Electronic,
+Telecommunication Engineering, and Naval Architecture (DITEN) of the University of
+Genoa.
+
+The complete document can be found [here](https://edgomezg.github.io/assets/pdf/Bachelor%Thesis%Eduardo%Gomez%Gonzalez.pdf).
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/bachelor_thesis/scenario.png" title="scenario" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/bachelor_thesis/lab.png" title="laboratory setup" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/bachelor_thesis/scattered field.png" title="scattered field example" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+    On the left, a schematic of the scenario. Middle, the laboratory setup. Right, an example of scattered field.
 </div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
-
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
-
-{% endraw %}
