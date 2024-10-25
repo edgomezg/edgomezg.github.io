@@ -2,7 +2,7 @@
 layout: page
 title: Experimental Calibration of GPR S-Parameter Data for Subsurface Prospecting
 description: Bachelor Thesis
-img: assets/img/bacherlor_thesis/main.png
+img: assets/img/bachelor_thesis/main.png
 importance: 3
 category: RF
 ---
@@ -22,7 +22,7 @@ at the Applied Electromagnetics Laboratory of the Department of Electrical, Elec
 Telecommunication Engineering, and Naval Architecture (DITEN) of the University of
 Genoa.
 
-The complete document can be found [here](https://edgomezg.github.io/assets/pdf/Bachelor%Thesis%Eduardo%Gomez%Gonzalez.pdf).
+The complete document can be found [here](https://edgomezg.github.io/assets/pdf/Bachelor Thesis Eduardo Gomez Gonzalez.pdf).
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
