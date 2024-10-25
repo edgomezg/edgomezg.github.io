@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Adjustment and Calibration of the Signal Reception System of the Radio Telescope
-description: another without an image
+description: UPNA Internship
 img: assets/img/radiotelescope/main.jpg
-importance: 4
+importance: 3
 category: RF
 ---
 
