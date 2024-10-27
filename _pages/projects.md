@@ -2,13 +2,13 @@
 layout: page
 title: Projects
 permalink: /projects/
-description: [RF](#RF)   [ML/AI](#ML/AI)   [Software](#Software)
+description:
 nav: true
 nav_order: 1
 display_categories: [RF, ML/AI, Software]
 horizontal: true
 ---
-
+[RF](#RF)   [ML/AI](#ML/AI)   [Software](#Software)
 <!-- pages/projects.md -->
 <div class="projects">
 {% if site.enable_project_categories and page.display_categories %}

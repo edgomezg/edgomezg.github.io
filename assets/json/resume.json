@@ -69,6 +69,19 @@
   ],
   "skills": [
     {
+      "name": "Telecommunications",
+      "level": "",
+      "keywords": [
+        "RF laboratory equipment",
+        "Software-defined radio",
+        "Ansys, CST, AWR",
+        "Microwave technologies",
+        "Antennas",
+        "Signal processing",
+        "Optical communications"
+      ]
+    },
+    {
       "name": "Programming Languages and Tools",
       "level": "",
       "keywords": [
@@ -80,19 +93,6 @@
         "Javascript",
         "Git",
         "Linux"
-      ]
-    },
-    {
-      "name": "Telecommunications",
-      "level": "",
-      "keywords": [
-        "RF laboratory equipment",
-        "Software-defined radio",
-        "Ansys, CST, AWR",
-        "Microwave technologies",
-        "Antennas",
-        "Signal processing",
-        "Optical communications"
       ]
     },
     {
