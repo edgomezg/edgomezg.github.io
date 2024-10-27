@@ -112,8 +112,8 @@ x_username: # your X handle
 youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 zotero_username: # your zotero username
 
-contact_note: >
-  Don't hesitate to contact me for any question or comment!
+# contact_note: >
+#   Don't hesitate to contact me for any question or comment!
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
