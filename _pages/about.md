@@ -23,6 +23,6 @@ social: true # includes social icons at the bottom of the page
   I am profoundly passionate about technology, with a particular interest in wireless communications, radio-frequency technologies, signal processing, and machine learning. I thrive in team environments and enjoy collaborating with colleagues across diverse settings, maintaining a proactive attitude focused on enhancing both my skills and those of others. I am eager to continue learning and contributing to projects that drive innovation and collective growth.
 </p>  
 <p>
-  Here, you can find a selection of my [projects](https://edgomezg.github.io/projects/) showcasing my main skills, along with my [CV](https://edgomezg.github.io/cv/). Please don't hesitate to reach out with any questions or comments through any of the contact options below.
+  Here, you can find a selection of my <a href="https://edgomezg.github.io/projects/">projects</a> showcasing my main skills, along with my <a href="https://edgomezg.github.io/cv/">CV</a>. Please don't hesitate to reach out with any questions or comments through any of the contact options below.
 </p>
   </div>

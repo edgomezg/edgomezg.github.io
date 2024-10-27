@@ -5,6 +5,7 @@ description: Predict forest cover by cartographic features
 img: assets/img/forest_cover_classification/main.jpg
 importance: 1
 category: ML/AI
+github: https://github.com/edgomezg/Forest-cover-classification
 ---
 ## Table of Contents
 1. [Introduction](#1-introduction)
