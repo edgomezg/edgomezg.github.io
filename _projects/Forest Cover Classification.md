@@ -21,6 +21,8 @@ category: ML/AI
 ## 1. Introduction
 The project focuses on classifying forest cover types using cartographic variables like elevation, slope, and soil type. The dataset, derived from the U.S. Forest Service, contains 30-meter square patches of land, and each patch is labeled with one of seven forest cover types. The goal is to build a machine learning model that can predict the cover type based on the available features, aiding in environmental management and forestry practices.
 
+This project was carried out in collaboration with [Oier Huici Itarte](https://oierhuici.github.io/).
+
 For more information, you can visit the [Kaggle competition page](https://www.kaggle.com/competitions/clasif-cubiertas-forestales).
 
 ---

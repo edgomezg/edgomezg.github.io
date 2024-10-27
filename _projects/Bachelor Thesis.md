@@ -3,7 +3,7 @@ layout: page
 title: Experimental Calibration of GPR S-Parameter Data for Subsurface Prospecting
 description: Bachelor Thesis
 img: assets/img/bachelor_thesis/main.png
-importance: 2
+importance: 1
 category: RF
 ---
 

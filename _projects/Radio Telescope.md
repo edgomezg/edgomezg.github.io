@@ -3,7 +3,7 @@ layout: page
 title: Design and Calibration of the Signal Reception System of a Radio Telescope
 description: UPNA Internship
 img: assets/img/radiotelescope/main.jpg
-importance: 3
+importance: 2
 category: RF
 ---
 
