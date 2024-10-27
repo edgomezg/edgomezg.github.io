@@ -69,53 +69,45 @@
   ],
   "skills": [
     {
-      "name": "Digital Skills",
+      "name": "Programming Languages and Tools",
       "level": "",
       "keywords": [
         "Matlab",
-        "Microsoft Office",
-        "RCommander",
-        "Git",
-        "Linux",
-        "Python",
-        "Java",
+        "Python, Pytorch",
+        "Julia",
         "C",
+        "Java",
         "Javascript",
-        "SQL",
-        "PHP",
-        "VHDL",
-        "RF technologies",
-        "OFDM"
+        "Git",
+        "Linux"
       ]
-    }
-  ],
-  "languages": [
-    {
-      "language": "Spanish",
-      "fluency": "Native speaker"
     },
     {
-      "language": "English",
-      "fluency": "C1"
-    },
-    {
-      "language": "French",
-      "fluency": "B1"
-    },
-    {
-      "language": "Italian",
-      "fluency": "B1"
-    }
-  ],
-  "interests": [
-    {
-      "name": "Science Outreach",
+      "name": "Telecommunications",
+      "level": "",
       "keywords": [
-        "Radioastronomy",
-        "Public speaking"
+        "RF laboratory equipment",
+        "Software-defined radio",
+        "Ansys, CST, AWR",
+        "Microwave technologies",
+        "Antennas",
+        "Signal processing",
+        "Optical communications"
+      ]
+    },
+    {
+      "name": "Languages",
+      "level": "",
+      "keywords": [
+        "Spanish (Native speaker)",
+        "English (C1)",
+        "French (B1)",
+        "Italian (B1)"
       ]
     }
   ],
+  "languages": [],
+  "interests": [],
   "projects": [],
   "volunteer": [],
   "references": [],

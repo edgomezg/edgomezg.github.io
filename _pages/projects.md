@@ -2,7 +2,7 @@
 layout: page
 title: Projects
 permalink: /projects/
-description:
+description: [RF](#RF)   [ML/AI](#ML/AI)   [Software](#Software)
 nav: true
 nav_order: 1
 display_categories: [RF, ML/AI, Software]
@@ -10,10 +10,6 @@ horizontal: true
 ---
 
 <!-- pages/projects.md -->
-
-### Categories
-[RF](#RF) [ML/AI](#ML/AI) [Software](#Software)
-
 <div class="projects">
 {% if site.enable_project_categories and page.display_categories %}
   <!-- Display categorized projects -->
@@ -26,7 +22,7 @@ horizontal: true
   <!-- Generate cards for each project -->
   {% if page.horizontal %}
   <div class="container">
-    <div class="row row-cols-1 row-cols-md-1" style="padding-top: 0; padding-bottom: 0;">
+    <div class="row row-cols-1 row-cols-md-1">
     {% for project in sorted_projects %}
       {% include projects_horizontal.liquid %}
     {% endfor %}
