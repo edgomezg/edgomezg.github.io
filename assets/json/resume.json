@@ -69,6 +69,16 @@
   ],
   "skills": [
     {
+      "name": "Languages",
+      "level": "",
+      "keywords": [
+        "Spanish (Native speaker)",
+        "English (C1)",
+        "French (B1)",
+        "Italian (B1)"
+      ]
+    },
+    {
       "name": "Telecommunications",
       "level": "",
       "keywords": [
@@ -76,9 +86,10 @@
         "Software-defined radio",
         "Ansys, CST, AWR",
         "Microwave technologies",
-        "Antennas",
+        "Antennas and propagation",
         "Signal processing",
-        "Optical communications"
+        "Optical communications",
+        "Wireless technologies"
       ]
     },
     {
@@ -89,21 +100,20 @@
         "Python, Pytorch",
         "Julia",
         "C",
-        "Java",
-        "Javascript",
+        "Java, Javascript",
         "Git",
-        "Linux"
+        "Linux",
+        "SQL",
+        "Microsoft Office"
       ]
     },
     {
-      "name": "Languages",
+      "name": "Network administration",
       "level": "",
       "keywords": [
-        "Spanish (Native speaker)",
-        "English (C1)",
-        "French (B1)",
-        "Italian (B1)"
-      ]
+        "OSI model protocols",
+        "DNS, BGP, VPN"
+      ]  
     }
   ],
   "languages": [],
