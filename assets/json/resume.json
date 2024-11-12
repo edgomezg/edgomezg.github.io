@@ -6,7 +6,7 @@
     "email": "egoglez26@gmail.com",
     "url": "https://edgomezg.github.io/"
   },
-  "work": [
+  "work experience": [
     {
       "name": "Universidad Carlos III de Madrid",
       "position": "Research Support Technician",
@@ -96,15 +96,14 @@
       "name": "Programming Languages and Tools",
       "level": "",
       "keywords": [
+        "Python, PyTorch",
         "Matlab",
-        "Python, Pytorch",
+        "Java, Javascript",
         "Julia",
         "C",
-        "Java, Javascript",
-        "Git",
-        "Linux",
         "SQL",
-        "Microsoft Office"
+        "Git",
+        "Linux, Microsoft Office"
       ]
     },
     {
