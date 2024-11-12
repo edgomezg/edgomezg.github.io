@@ -6,7 +6,7 @@
     "email": "egoglez26@gmail.com",
     "url": "https://edgomezg.github.io/"
   },
-  "work experience": [
+  "work_experience": [
     {
       "name": "Universidad Carlos III de Madrid",
       "position": "Research Support Technician",
@@ -69,16 +69,6 @@
   ],
   "skills": [
     {
-      "name": "Languages",
-      "level": "",
-      "keywords": [
-        "Spanish (Native speaker)",
-        "English (C1)",
-        "French (B1)",
-        "Italian (B1)"
-      ]
-    },
-    {
       "name": "Telecommunications",
       "level": "",
       "keywords": [
@@ -104,6 +94,16 @@
         "SQL",
         "Git",
         "Linux, Microsoft Office"
+      ]
+    },
+    {
+      "name": "Languages",
+      "level": "",
+      "keywords": [
+        "Spanish (Native speaker)",
+        "English (C1)",
+        "French (B1)",
+        "Italian (B1)"
       ]
     },
     {
