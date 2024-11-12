@@ -3,10 +3,9 @@
     "name": "Eduardo Gómez González",
     "label": "Telecommunications Engineer",
     "image": "",
-    "email": "egoglez26@gmail.com",
-    "url": "https://edgomezg.github.io/"
-  },
-  "work experience": [
+    "email": "egoglez26@gmail.com"
+    },
+  "work": [
     {
       "name": "Universidad Carlos III de Madrid",
       "position": "Research Support Technician",
@@ -97,16 +96,6 @@
       ]
     },
     {
-      "name": "Languages",
-      "level": "",
-      "keywords": [
-        "Spanish (Native speaker)",
-        "English (C1)",
-        "French (B1)",
-        "Italian (B1)"
-      ]
-    },
-    {
       "name": "Network administration",
       "level": "",
       "keywords": [
@@ -115,7 +104,24 @@
       ]  
     }
   ],
-  "languages": [],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Advanced (C1)"
+    },
+    {
+      "language": "French",
+      "fluency": "Intermediate (B1)"
+    },
+    {
+      "language": "Italian",
+      "fluency": "Intermediate"
+    }
+  ],
   "interests": [],
   "projects": [],
   "volunteer": [],
