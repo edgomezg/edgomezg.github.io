@@ -8,7 +8,12 @@ nav_order: 1
 display_categories: [RF, ML/AI, Software]
 horizontal: true
 ---
-[RF](#RF)   [ML/AI](#ML/AI)   [Software](#Software)
+
+## Categories
+1. [RF](#RF)
+2. [ML/AI](#ML/AI)
+3. [Software](#Software)
+
 <!-- pages/projects.md -->
 <div class="projects">
 {% if site.enable_project_categories and page.display_categories %}
