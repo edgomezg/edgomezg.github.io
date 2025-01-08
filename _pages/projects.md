@@ -13,6 +13,7 @@ horizontal: true
 1. [RF](#RF)
 2. [ML/AI](#ML/AI)
 3. [Software](#Software)
+---
 
 <!-- pages/projects.md -->
 <div class="projects">
