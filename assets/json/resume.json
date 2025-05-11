@@ -7,12 +7,20 @@
     },
   "work experience": [
     {
+      "name": "TRC",
+      "position": "Radiofrequency Systems Engineer",
+      "url": "",
+      "startDate": "2025-02",
+      "endDate": "Current",
+      "summary": "- Development of UAS Detection Algorithms\n- Design and Optimization of RF systems\n- Reverse Engineering Techniques\n- Software Defined Radio\n- Field Tests"
+    },
+    {
       "name": "Universidad Carlos III de Madrid",
-      "position": "Research Support Technician",
+      "position": "Research Assistant",
       "url": "",
       "startDate": "2024-06",
-      "endDate": "2024-11",
-      "summary": "Collaboration in dissemination tasks, internal and external coordination. Feasibility study and logistical organization for a new 5G/6G conference. Follow-up of the conference and logistical organisation."
+      "endDate": "Current",
+      "summary": "Development of Autodifferentiable Solvers for Scientific Machine Learning applications at GREMA (Radiofrequency, Electromagnetics, Microwaves and Antennas Group)."
     },
     {
       "name": "Public University of Navarre",
@@ -78,13 +86,14 @@
       "level": "",
       "keywords": [
         "RF laboratory equipment",
-        "Software-defined radio",
-        "Ansys, CST, AWR",
+        "Software-Defined Radio",
+        "HFSS, CST, AWR",
         "Microwave technologies",
         "Antennas and propagation",
         "Signal processing",
         "Optical communications",
-        "Wireless technologies"
+        "Wireless technologies",
+        "Computational Electromagnetics"
       ]
     },
     {
